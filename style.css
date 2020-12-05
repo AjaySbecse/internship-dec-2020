@@ -1,0 +1,58 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nerko+One&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Arvo&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+
+.navbar
+{
+	width : 100%;
+	margin-left:30px;
+	margin-top:20px;
+	padding:30px;
+}
+
+.intro
+{
+	margin:50px;
+	background-color:#25a186;
+	padding:80px
+}
+.intro-title
+{
+	font-family: 'Nerko One', cursive;
+	font-weight:bold;
+	color:white;
+	letter-spacing:2px;
+	font-size:50px;
+}
+.para
+{
+	margin:50px;
+	padding:10px;
+	font-family: 'Arvo', serif;
+	font-size:20px;
+	line-height:1.8;	
+}
+.subtitle
+{
+	margin:50px;
+	padding:20px
+}
+
+.para-subtitle
+{
+	font-family: 'Fredoka One', cursive;
+	font-size:35px;
+	font-weight:bold;
+	color:#25a186;
+}
+.para-subtitle1
+{
+	font-family: 'Fredoka One', cursive;
+	font-size:25px;
+	font-weight:bold;
+	color:red;
+}
+
